@@ -1,4 +1,4 @@
-/** Class that prints the Collatz sequence starting from a given number.
+/** Class that prints the Collatz sequence starting from a given nuddmber.
  *  @author YOUR NAME HERE
  */
 public class Collatz {
